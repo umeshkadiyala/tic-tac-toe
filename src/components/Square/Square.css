@@ -1,0 +1,14 @@
+.square {
+  width: 33.3%;
+  box-sizing: border-box;
+  background: white;
+  border: 1px solid lightgray;
+}
+
+.square-X {
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' ><text x='50%' y='50%' fill='black' font-size='200%'>X</text></svg>");
+}
+
+.square-O {
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' version='1.1' ><text x='50%' y='50%' fill='black' font-size='200%'>O</text></svg>");
+}
